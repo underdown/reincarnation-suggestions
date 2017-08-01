@@ -6,7 +6,7 @@
 * [TEJAS] new spell "Mexican invasion" offensive when cast 1 mill NP worth of starving peasants invade your kingdom, farms produce 20% better, White ultimate replacing miracle 250 mana to cast 5 turns, max 5 times per day.
 * Nerf VE slightly.  With this number of turns its pretty trivial to keep someone in VE prot
 
-* lucky Cauldron changes:
+* *Lucky Cauldron changes:*
 [aegon]
 My goal here is to reduce the # of items in each pack in order to make the use of Premiums a more strategic choice again, and to make the packs a little more interesting and useful so that every level has a potential to give you a chase item. The numbers below are obviously more complicated, but they need to be in order to make it harder to abuse packs since I added chase items to all of them. With these changes I think we can make Lucky Cauldron a little more interesting than "Buy Ultra Packs":
 
